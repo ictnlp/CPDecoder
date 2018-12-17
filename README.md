@@ -1,5 +1,5 @@
 
-## RN4NMT: Refining Source Representations with Relation Networks for Neural Machine Translation
+## CPDecoder: Speeding Up Neural Machine Translation Decoding by Cube Pruning
 
 Although neural machine translation has achieved promising results, it suffers from slow translation speed. The direct consequence is that a trade-off has to be made between translation quality and speed, thus its performance can not come into full play. We apply cube pruning, a popular technique to speed up dynamic programming, into neural machine translation to speed up the translation.
 
